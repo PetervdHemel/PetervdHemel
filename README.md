@@ -3,6 +3,8 @@
 ## Currently a student at REA Groningen.
 - Working on various Python projects involving real-world scenarios.
 - Interested in learning all sorts of programming languages.
+- Previously programmed in Unity using C#
+- Started programming in school using Microsoft VB.NET
 
 <br />
 
