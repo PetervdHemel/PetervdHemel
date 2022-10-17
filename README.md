@@ -14,7 +14,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="c-sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Atom" width="26px" src="https://avatars.githubusercontent.com/u/1089146?s=200&v=4" />
-
+<img align="left" alt="Click" width="26px" src="https://click.palletsprojects.com/en/8.1.x/_images/click-logo.png" />
+<img align="left" alt="Markdown" width="26px" src="https://github.com/markdown-templates/our-logo/blob/master/jpg/markdown-templates_logo@0,25x.jpg?raw=true" />
 <br />
 
 ---
