@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub page!
 
-## Currently an intern at Docuwork B.V.
+## Currently employed as Jr. Software Engineer
 - Working on various Python projects involving real-world scenarios.
 - Internally worked on various production-ready projects including technology such as:
   - pikepdf
